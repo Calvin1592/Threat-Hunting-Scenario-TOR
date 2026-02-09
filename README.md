@@ -97,6 +97,7 @@ Timeline of Events:
 
 
 Summary
+
 On June 30, 2025, at approximately 7:53 PM, user "bigc1592" began downloading files related to the Tor browser, which resulted in the creation of a document named “tor-shopping-list.txt”. Shortly thereafter, the user silently launched the installer for the Tor Browser from their device, circumventing any prompts that would normally appear. At 8:00 PM, they successfully opened the Tor Browser and initiated the program "tor.exe". This led to the establishment of a network connection on port 9001 to a specified remote IP address, along with subsequent connections over port 443. The actions taken by the user suggest a deliberate attempt to use the Tor browser, and the method of installation and execution indicates an intention to hide activity, which warrants further investigation. Users involved in this case may require additional monitoring and awareness training around the risks associated with using Tor.
 
 
